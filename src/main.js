@@ -15,6 +15,7 @@ Vue.use(Router, VueAxios, axios);
 Vue.use(Vuex);
 Vue.prototype.axios = axios;
 
+
 //mint-ui
 import Mint from 'mint-ui';
 import 'mint-ui/lib/style.css';
